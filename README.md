@@ -1,12 +1,12 @@
-# 📈 Algorithmic Trading Backtester
+# Algorithmic Trading Backtester
 
-## 🚀 Overview
+##Overview
 
 A modular algorithmic trading backtesting engine built to simulate realistic trading strategies and evaluate performance using financial risk metrics.
 
 ---
 
-## 🎯 Features
+## Features
 
 * Historical data fetching using Yahoo Finance
 * Moving average crossover strategy
@@ -16,7 +16,7 @@ A modular algorithmic trading backtesting engine built to simulate realistic tra
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 * `data/` → Data loading
 * `strategies/` → Trading logic
@@ -25,7 +25,7 @@ A modular algorithmic trading backtesting engine built to simulate realistic tra
 
 ---
 
-## ▶️ Run Project
+## Run Project
 
 ```bash
 pip install -r requirements.txt
@@ -34,7 +34,7 @@ python main.py
 
 ---
 
-## 💼 Purpose
+## Purpose
 
 This project demonstrates:
 
@@ -44,6 +44,6 @@ This project demonstrates:
 
 ---
 
-## 👤 Author
+## Author
 
-Your Name
+Shirley kona
