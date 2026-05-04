@@ -1,6 +1,6 @@
 # Algorithmic Trading Backtester
 
-##Overview
+## Overview
 
 A modular algorithmic trading backtesting engine built to simulate realistic trading strategies and evaluate performance using financial risk metrics.
 
