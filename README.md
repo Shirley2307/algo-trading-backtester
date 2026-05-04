@@ -43,7 +43,12 @@ This project demonstrates:
 * Python-based system design
 
 ---
+## 📊 Results
 
+- Sharpe Ratio: X  
+- Max Drawdown: X  
+
+![Equity Curve](equity.png)
 ## Author
 
 Shirley kona
